@@ -1,1 +1,1 @@
-# ttps://ahmadhassan9594.github.io/click-target.html
+# https://ahmadhassan9594.github.io/click-target.html
